@@ -38,7 +38,7 @@ GetBlock is a leading **RPC provider**, backing thousands of devs and enterprise
 | [Contact](https://getblock.io/contact/) | [YouTube](https://www.youtube.com/c/GetBlock)  |
 
 
-📨 **Need Support?** Connect with the support team on [Discord](https://discord.gg/getblock-686478398884675584), or fill out the connect form [here](https://getblock.io/contact/)  
+📨 **Need Support?** Connect with the support team on [Discord](https://discord.gg/getblock-686478398884675584), or fill out the contact form [here](https://getblock.io/contact/)  
 [info@getblock.io](mailto:info@getblock.io)
 
 Keep BUIDLing!  
